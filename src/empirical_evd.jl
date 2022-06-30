@@ -1,5 +1,6 @@
 module empirical_evd
 
-greet() = print("Hello World!")
+include("utils.jl")
+export load_model
 
 end # module
