@@ -1,6 +1,8 @@
 # Results
 *.png
 *.bson
+*.jld2
+
 
 #vscode
 .vscode
