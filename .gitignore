@@ -2,7 +2,7 @@
 *.png
 *.bson
 *.jld2
-
+/data
 
 #vscode
 .vscode
